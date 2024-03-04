@@ -1,4 +1,4 @@
-# Mini Project 1 ASD
+# Mini Project ASD
 - Nama : Yasmin Alya Aziza
 - NIM  : 2309116036
 
